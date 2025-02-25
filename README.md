@@ -31,7 +31,7 @@ source venv/bin/activate
 
 Gradio app Chat with Gemini
 
-Please download and set up docekr desktop WINDOW,MAC OS,LINUX
+Please download and set up docker desktop WINDOW,MAC OS,LINUX
 
 IN CDM or Terminal of your code file 
 
