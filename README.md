@@ -35,7 +35,9 @@ Please download and set up docekr desktop WINDOW,MAC OS,LINUX
 
 IN CDM or Terminal of your code file 
 
-run command:   docker build -t gradio-chat-app .
+run command:   
+
+docker build -t gradio-chat-app .
 
 docker run -e GOOGLE_API_KEY=your_api_key_here -p 7860:7860 gradio-chat-app
 
